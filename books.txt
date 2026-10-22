@@ -1,0 +1,9 @@
+B101|Java: The Complete Reference|Herbert Schildt|Programming|true|rehanvfsvfs
+B102|Effective Java|Joshua Bloch|Programming|false|-
+B103|Data Structures Using C|Reema Thareja|Computer Science|true|rehanfdfd
+B104|Operating System Concepts|Abraham Silberschatz|Computer Science|false|-
+B105|Database System Concepts|Henry Korth|Database|false|-
+B106|Computer Networks|Andrew Tanenbaum|Networking|false|-
+B107|Wings of Fire|A. P. J. Abdul Kalam|Biography|false|-
+B108|Head First Java|Kathy Sierra|Programming|false|-
+B101s|Java: The Compdfdsfslete Reference|Herbert Schildt|Programming|false|-
